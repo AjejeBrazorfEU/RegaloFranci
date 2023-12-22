@@ -1,0 +1,1 @@
+Raspberry PI 4 Case (GPIO  access, Fusion 360 model, Fan 30 and 40mm) by Olvin on Thingiverse: https://www.thingiverse.com/thing:4882960

@@ -1,0 +1,1 @@
+RFID RC522 open case by nils_se on Thingiverse: https://www.thingiverse.com/thing:3348500
